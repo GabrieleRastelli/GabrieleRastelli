@@ -1,6 +1,6 @@
 ## Hi there, I'm [GabrieleRastelli][website] 👋 
 
-- 🔭 I just co-launched my first app: [My Training Schedule] [applink]
+- 🔭 I just co-launched my first app: [My Training Schedule][applink]
 - 🌱 I’m currently studying IT at university
 - 🥅 Goals: Keep learning new technologies and frameworks
 - ⚡ Fun fact: I love going to the gym, watching films and playing pool 🎱
@@ -35,7 +35,7 @@
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRastelli&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Gabriele Rastelli's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleRastelli&layout=compact&theme=default&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRastelli&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide=prs,issues,contribs" alt="Gabriele Rastelli's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleRastelli&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
 
 [website]: https://gabrielerastelli.github.io

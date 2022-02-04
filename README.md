@@ -33,6 +33,8 @@
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
+<br />
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRastelli&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Gabriele Rastelli's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleRastelli&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
 

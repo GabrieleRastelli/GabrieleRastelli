@@ -1,6 +1,6 @@
 ## Hi there, I'm [GabrieleRastelli][website] 👋 
 
-- 🔭 I just co-launched my first app: [My Training Schedule][applink]
+- 🔭 I just co-launched my first app: [My Training Schedules][applink]
 - 🌱 I’m currently studying IT at university
 - 🥅 Goals: Keep learning new technologies and frameworks
 - ⚡ Fun fact: I love going to the gym, watching films and playing pool 🎱

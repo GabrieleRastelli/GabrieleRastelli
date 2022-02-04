@@ -1,4 +1,4 @@
-## Hi there, I'm [GabrieleRastelli][website] 👋 
+## Hi there, I'm [Gabriele Rastelli][website] 👋 
 
 - 🔭 I just co-launched my first app: [My Training Schedules][applink]
 - 🌱 I’m currently studying IT at university
